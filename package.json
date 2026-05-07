@@ -1,0 +1,20 @@
+{
+  "name": "hinal-suthar-portfolio",
+  "version": "1.0.0",
+  "description": "Professional animated portfolio website for Hinal Suthar.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Hinal Suthar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
